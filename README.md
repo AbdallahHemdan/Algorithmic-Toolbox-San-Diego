@@ -12,5 +12,5 @@ This Specialization is unique, because it offers two real-world projects. Advanc
 
 ## Week 1
 ### Solving a Simple Code Problem
-problem: [Sum_of_two_digits]
-Problem: [Maximum Pairwise Product]
+* problem: [Sum_of_two_digits]
+* Problem: [Maximum Pairwise Product]
