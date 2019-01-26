@@ -1,4 +1,4 @@
-# Data Structures and Algorithms
+# 🌟✔ Data Structures and Algorithms
 
 This repository will contain my work from the [Master Algorithmic Programming Techniques Specialization](https://www.coursera.org/specializations/data-structures-algorithms) that was created by UC San Diego and delivered through Coursera. I will be implementing solutions in C++.
 
@@ -10,8 +10,17 @@ The Specialization covers algorithmic techniques for solving problems arising in
 
 This Specialization is unique, because it offers two real-world projects. Advanced Shortest Paths project is offered in the end of the Algorithms on Graphs course. In this project, you'll deal with road network analysis and social network analysis. You'll learn how to compute the fastest route between New York and Mountain View thousands of times faster than classic algorithms and close to those used in Google Maps. Through Genome Assembly culminating project at the end of the Specialization, you'll learn how to assemble genomes from millions of short pieces and how algorithms fuel recent developments in personalized medicine.
 
-## Week 1
-### Solving a Simple Code Problem
+## 📝Table of Content
 - [Week-1](/week1_programming_challenges)
-  * [Sum of two Digits](/week1_programming_challenges/1_sum_of_two_digits/)
+  * [Sum of two Digits](/week1_programming_challenges/1_sum_of_two_digits)
   * [Maximum Pairwise Product](/week1_programming_challenges/2_maximum_pairwise_product)
+
+- [Week-2](/week2_programming_challenges)
+  * [Small Fibonacci Number](/week2_programming_challenges//)
+  * [The Last Digit of a Large Fibonacci Number](/week2_programming_challenges/)
+  * [Greatest Common Divisor](/week2_programming_challenges/)
+  * [Least Common Multiple](/week2_programming_challenges/)
+  * [Huge Fibonacci Number modulo m](/week2_programming_challenges/)
+  * [Last Digit of a Sum of Fibonacci Numbers](/week2_programming_challenges/)
+  * [Last Digit of a Partial Sum of Fibonacci Numbers](/week2_programming_challenges/)
+  * [Last Digit of the Sum of Squares of Fibonacci Numbers](/week2_programming_challenges/)
