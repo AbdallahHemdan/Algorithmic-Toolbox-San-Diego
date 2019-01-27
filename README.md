@@ -25,7 +25,7 @@ This Specialization is unique, because it offers two real-world projects. Advanc
   * [Last Digit of a Partial Sum of Fibonacci Numbers](/week2_programming_challenges/)
   * [Last Digit of the Sum of Squares of Fibonacci Numbers](/week2_programming_challenges/)
   
-  - [Week-3](/week3_programming_challenges)
+- [Week-3](/week3_programming_challenges)
   * [Money Change](/week3_programming_challenges/1_money_change)
   * [Maximum Value of the Loot (Fractional Knapsack)](/week3_programming_challenges/2_maximum_value_of_the_loot)
   * [Maximum Advertisement Revenue (Maximum Dot Product)](/week3_programming_challenges/3_maximum_advertisement_revenue)
