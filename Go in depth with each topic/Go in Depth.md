@@ -12,7 +12,7 @@
 ###	 Week-2
 #### Topics :
 			1- Why We Study Algorithms [✔]
-			2- Fibonacci Numbers ()
+			2- Fibonacci Numbers [✔]
 			3- Greatest Common Divisor () 
 			4- Big O Notation	
 		
