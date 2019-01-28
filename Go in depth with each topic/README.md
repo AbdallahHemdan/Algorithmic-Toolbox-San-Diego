@@ -2,7 +2,7 @@
 -----------------------------------------------------------------------------------------------------------------------
 ### Week-1
 #### Topics :
-		   1- Just an introduction To Algorithms [✔]
+		1- Just an introduction To Algorithms [✔]
 		
 #### Problems:
 			 1-sum of two digits [✔]
@@ -10,10 +10,10 @@
 -----------------------------------------------------------------------------------------------------------------------
 ###	 Week-2
 #### Topics :
-			1- Why We Study Algorithms [✔]
-			2- Fibonacci Numbers [✔]
-			3- Greatest Common Divisor () 
-			4- Big O Notation	
+		1- Why We Study Algorithms [✔]
+		2- Fibonacci Numbers [✔]
+		3- Greatest Common Divisor () 
+		4- Big O Notation	
 		
 #### Problems:
 			1-fibonacci number ()
@@ -28,9 +28,9 @@
 -----------------------------------------------------------------------------------------------------------------------
 ### Week-3
 #### Topics :
-			1- Introduction To Greedy Algoritm ()
-			3- Grouping Children ()
-			2- Knapsack Problem ()
+		1- Introduction To Greedy Algoritm ()
+		3- Grouping Children ()
+		2- Knapsack Problem ()
 
 #### Problems:
 			1-money_change ()
@@ -42,11 +42,11 @@
 ----------------------------------------------------------------------------------------------------------------------
 ###	Week-4
 #### Topics :
-			1- Change Problem ()
-			2- Largest Common Subsequance ()
-			3- The Alignment Game ()
-			4- Edit Distance()
-			5- Merge Sort ()
+		1- Change Problem ()
+		2- Largest Common Subsequance ()
+		3- The Alignment Game ()
+		4- Edit Distance()
+		5- Merge Sort ()
 
 #### Problems:
 			1-binary_search ()
@@ -60,13 +60,13 @@
 ----------------------------------------------------------------------------------------------------------------------
 ### Week-5
 #### Topics :
-			1- Linear Search , Binary Search ()
-			2- Polynomial Multiplication ()
-			3- Master Theorem ()
-			4- Selction Sort  ()
-			5- Merge Sort ()
-			6- counting Sort ()
-			7- Quick Sort ()
+		1- Linear Search , Binary Search ()
+		2- Polynomial Multiplication ()
+		3- Master Theorem ()
+		4- Selction Sort  ()
+		5- Merge Sort ()
+		6- counting Sort ()
+		7- Quick Sort ()
 
 #### Problems:
 			1-money_change_again ()
