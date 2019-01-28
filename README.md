@@ -10,7 +10,7 @@ The Specialization covers algorithmic techniques for solving problems arising in
 
 This Specialization is unique, because it offers two real-world projects. Advanced Shortest Paths project is offered in the end of the Algorithms on Graphs course. In this project, you'll deal with road network analysis and social network analysis. You'll learn how to compute the fastest route between New York and Mountain View thousands of times faster than classic algorithms and close to those used in Google Maps. Through Genome Assembly culminating project at the end of the Specialization, you'll learn how to assemble genomes from millions of short pieces and how algorithms fuel recent developments in personalized medicine.
 
-## 📝Table of Content
+## 📝 Table of Content
 - [Week-1](/week1_programming_challenges)[ (pdf) ](/week1_programming_challenges/week1_programming_challenges.pdf)
   * [Sum of two Digits](/week1_programming_challenges/1_sum_of_two_digits)
   * [Maximum Pairwise Product](/week1_programming_challenges/2_maximum_pairwise_product)
@@ -40,3 +40,7 @@ This Specialization is unique, because it offers two real-world projects. Advanc
   * [number of inversions](/week4_programming_challenges/4_number_of_inversions)
   * [organizing a lottery](/week4_programming_challenges/5_organizing_a_lottery)
   * [closest points](/week4_programming_challenges/6_closest_points)
+  
+## 💡📢 Go in Depth
+ 
+   I Have Added a New Part **Go in Depth** Which Will Contain The Course Covered Topics But With More Details ,And more Than One Method To Solve Each Problem
