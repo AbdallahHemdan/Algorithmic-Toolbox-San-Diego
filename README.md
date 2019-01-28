@@ -32,3 +32,11 @@ This Specialization is unique, because it offers two real-world projects. Advanc
   * [Collecting Signatures (Covering Segments by Points)](/week3_programming_challenges/4_collecting_signatures)
   * [Maximum Number of Prizes (Different Summands)](/week3_programming_challenges/5_maximum_number_of_prizes)
   * [Maximum Salary (Largest Number)](/week3_programming_challenges/6_maximum_salary)
+
+- [Week-4](/week4_programming_challenges)[ (pdf) ](/week4_programming_challenges/week4_divide_and_conquer.pdf)
+  * [binary search](/week4_programming_challenges/1_binary_search)
+  * [majority element](/week4_programming_challenges/2_majority_element)
+  * [improving quicksort](/week4_programming_challenges/3_improving_quicksort)
+  * [number of inversions](/week4_programming_challenges/4_number_of_inversions)
+  * [organizing a lottery](/week4_programming_challenges/5_organizing_a_lottery)
+  * [closest points](/week4_programming_challenges/6_closest_points)
