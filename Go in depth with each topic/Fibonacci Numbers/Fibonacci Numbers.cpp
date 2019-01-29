@@ -224,3 +224,11 @@ int main() {
 	cin >> n; 
 	cout << Last_Digit_Of_Fib(n) << endl;
 }
+// ____________________________________________________________________  
+/* 
+
+- Important Fibonacci Formulas:
+
+   1) Fib[1]+Fib[2]+Fib[3]+............+F[n] = Fib[n+2]-Fib[2]
+   2) Fib[1]^2+Fib[2]^2+Fib[3]^2+............+F[n]^2 = Fib[n]*Fib[n+1]
+*/
