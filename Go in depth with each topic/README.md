@@ -12,14 +12,15 @@
 #### Topics :
 		1- Why We Study Algorithms [✔]
 		2- Fibonacci Numbers [✔]
-		3- Greatest Common Divisor () 
-		4- Big O Notation	
+		3- Greatest Common Divisor [✔] 
+		4- Least Common Multiple [✔]
+		5- Big O Notation [✔]	
 		
 #### Problems:
-			1-fibonacci number ()
-			2-last digit of fibonacci number ()
-			3-greatest_common_divisor ()
-			4-least_common_multiple ()
+			1-fibonacci number [✔]
+			2-last digit of fibonacci number [✔]
+			3-greatest_common_divisor [✔]
+			4-least_common_multiple [✔]
 			5-fibonacci_number_again () 
 			6-last_digit_of_the_sum_of_fibonacci_numbers ()
 			7-last_digit_of_the_sum_of_fibonacci_numbers_again ()
