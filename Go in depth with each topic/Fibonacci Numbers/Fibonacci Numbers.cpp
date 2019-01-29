@@ -177,3 +177,50 @@ int main() {
 	cin >> FibNum; 
 	cout << Fibonacci_With_Formula(FibNum) << endl;
 }
+
+// ____________________________________________________________________
+
+// To Get The Last Of n-th Fibonacci Number We Use The Following Formula
+/*
+	Fib[0] = 0 ; 
+	Fib[1] = 1 ; 
+	for(i=2  ==> i<=n)
+		Fib[i] = (Fib[i-1]%10 + Fib[i-2]%10) %10 ;
+	return Fib[n] ;
+*/
+
+/*Author : Abdallah Hemdan */
+/***********************************************/
+/*
+   ___  ___
+* |\  \|\  \
+* \ \  \_\  \
+*  \ \   ___ \emdan
+*   \ \  \\ \ \
+*    \ \__\\ \_\
+*     \|__| \|__|
+*/
+
+#include <iostream>
+#include <cmath>
+#include <algorithm>
+#include <vector>
+typedef   long long int               ll;
+
+//freopen("input.txt","r",stdin);
+//freopen("output.txt","w",stdout);
+
+using namespace std;
+ll Last_Digit_Of_Fib(int n) {
+	vector<ll> Fib(n+2);
+	Fib[0] = 0; 
+	Fib[1] = 1;
+	for (size_t i = 2; i <= n; i++)
+		Fib[i] = (Fib[i - 1] % 10 + Fib[i - 2] % 10) % 10;
+	return Fib[n];
+}
+int main() {
+	int n; 
+	cin >> n; 
+	cout << Last_Digit_Of_Fib(n) << endl;
+}
