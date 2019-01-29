@@ -21,10 +21,10 @@
 			2-last digit of fibonacci number [✔]
 			3-greatest_common_divisor [✔]
 			4-least_common_multiple [✔]
-			5-fibonacci_number_again () 
-			6-last_digit_of_the_sum_of_fibonacci_numbers ()
+			5-fibonacci_number_again [✔] 
+			6-last_digit_of_the_sum_of_fibonacci_numbers [✔]
 			7-last_digit_of_the_sum_of_fibonacci_numbers_again ()
-	 		8-last_digit_of_the_sum_of_squares_of_fibonacci_numbers ()
+	 		8-last_digit_of_the_sum_of_squares_of_fibonacci_numbers [✔]
 
 -----------------------------------------------------------------------------------------------------------------------
 ### Week-3
