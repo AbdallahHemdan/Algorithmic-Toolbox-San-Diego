@@ -51,7 +51,7 @@ This Specialization is unique, because it offers two real-world projects. Advanc
 ## 💡📢 Go in Depth
  
    I Have Added a New Part **Go in Depth** Which Will Contain The Course Covered Topics But With More Details ,And more Than One Method To Solve Each Problem
-   
-- [Fibonacci-Numbers](/Go in depth with each topic/Fibonacci Numbers)
-- [Greatest-Common-Divisor](/Go in depth with each topic/Greatest Common Divisor)
-- [Least-Common-Multiple](/Go in depth with each topic/Least Common Multiple)
+
+- ***[Fibonacci-Numbers]***
+- ***[Greatest-Common-Divisor]***
+- ***[Least-Common-Multiple]***
