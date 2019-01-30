@@ -41,8 +41,17 @@ This Specialization is unique, because it offers two real-world projects. Advanc
   * [organizing a lottery](/week4_programming_challenges/5_organizing_a_lottery)
   * [closest points](/week4_programming_challenges/6_closest_points)
   
+- [Week-5](/week5_programming_challenges)[ (pdf) ](/week5_programming_challenges/week5_dynamic_programming1.pdf)
+  * [money change again](/week4_programming_challenges/1_binary_search)
+  * [primitive calculator](/week4_programming_challenges/2_majority_element)
+  * [edit distance](/week4_programming_challenges/3_improving_quicksort)
+  * [longest common subsequence of two sequences](/week4_programming_challenges/4_number_of_inversions)
+  * [longest common subsequence of three sequences](/week4_programming_challenges/5_organizing_a_lottery)
+  
 ## 💡📢 Go in Depth
  
    I Have Added a New Part **Go in Depth** Which Will Contain The Course Covered Topics But With More Details ,And more Than One Method To Solve Each Problem
    
-* **[Fibonacci Numbers]**
+- [Fibonacci-Numbers](/Go in depth with each topic/Fibonacci Numbers)
+- [Greatest-Common-Divisor](/Go in depth with each topic/Greatest Common Divisor)
+- [Least-Common-Multiple](/Go in depth with each topic/Least Common Multiple)
