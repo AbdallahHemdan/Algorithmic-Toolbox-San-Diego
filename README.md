@@ -55,3 +55,5 @@ This Specialization is unique, because it offers two real-world projects. Advanc
 - ***[Fibonacci-Numbers]***
 - ***[Greatest-Common-Divisor]***
 - ***[Least-Common-Multiple]***
+- ***[Fractional-Knapsack]***
+- ***[_0_1_KnapSack]***
