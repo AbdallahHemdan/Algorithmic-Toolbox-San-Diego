@@ -48,6 +48,11 @@ This Specialization is unique, because it offers two real-world projects. Advanc
   * [longest common subsequence of two sequences](/week4_programming_challenges/4_number_of_inversions)
   * [longest common subsequence of three sequences](/week4_programming_challenges/5_organizing_a_lottery)
   
+- [Week-6](/week6_programming_challenges)[ (pdf) ](/week6_programming_challenges/week6_dynamic_programming1.pdf)
+  * [maximum amount of gold](/week6_programming_challenges/1_maximum_amount_of_gold)
+  * [partitioning souvenirs](/week6_programming_challenges/2_partitioning_souvenirs)
+  * [maximum value of an arithmetic expression](/week6_programming_challenges/3_maximum_value_of_an_arithmetic_expression)
+  
 ## 💡📢 Go in Depth
  
    I Have Added a New Part **Go in Depth** Which Will Contain The Course Covered Topics But With More Details ,And more Than One Method To Solve Each Problem
