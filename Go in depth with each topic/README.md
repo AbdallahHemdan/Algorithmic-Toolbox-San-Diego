@@ -46,7 +46,7 @@
 #### Topics :
 
 		1- Linear Search , Binary Search [✔] 
-		2- Polynomial Multiplication ()
+		2- Polynomial Multiplication [✔]
 		3- Master Theorem ()
 		4- Selction Sort  ()
 		5- Merge Sort ()
