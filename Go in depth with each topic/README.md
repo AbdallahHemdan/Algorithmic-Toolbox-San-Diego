@@ -29,9 +29,10 @@
 -----------------------------------------------------------------------------------------------------------------------
 ### Week-3
 #### Topics :
-		1- Introduction To Greedy Algoritm ()
-		3- Grouping Children ()
-		2- Knapsack Problem ()
+		1- Introduction To Greedy Algoritm [✔] 
+		2- Grouping Children [✔] 
+		3- Franctional Knapsack Problem [✔] 
+		4- 0/1 Knapsack Problem [✔] 
 
 #### Problems:
 			1-money_change ()
@@ -43,11 +44,14 @@
 ----------------------------------------------------------------------------------------------------------------------
 ###	Week-4
 #### Topics :
-		1- Change Problem ()
-		2- Largest Common Subsequance ()
-		3- The Alignment Game ()
-		4- Edit Distance()
+
+		1- Linear Search , Binary Search ()
+		2- Polynomial Multiplication ()
+		3- Master Theorem ()
+		4- Selction Sort  ()
 		5- Merge Sort ()
+		6- counting Sort ()
+		7- Quick Sort ()
 
 #### Problems:
 			1-binary_search ()
@@ -61,13 +65,11 @@
 ----------------------------------------------------------------------------------------------------------------------
 ### Week-5
 #### Topics :
-		1- Linear Search , Binary Search ()
-		2- Polynomial Multiplication ()
-		3- Master Theorem ()
-		4- Selction Sort  ()
+		1- Change Problem ()
+		2- Largest Common Subsequance ()
+		3- The Alignment Game ()
+		4- Edit Distance()
 		5- Merge Sort ()
-		6- counting Sort ()
-		7- Quick Sort ()
 
 #### Problems:
 			1-money_change_again ()
@@ -77,3 +79,13 @@
 			5-longest_common_subsequence_of_three_sequences()
 
 ----------------------------------------------------------------------------------------------------------------------
+### Week-6
+#### Topics :
+		1- 0_1 KnapSack ()
+		2- KnapSack With Repetitions ()
+		3- KnapSack Without Repetitions ()
+		4-Placing Parenthesses	
+#### Problems:
+			1-maximum_amount_of_gold			
+			2-partitioning_souvenirs
+			3-maximum_value_of_an_arithmetic_expression()
