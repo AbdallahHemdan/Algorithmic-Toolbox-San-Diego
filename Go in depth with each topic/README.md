@@ -81,7 +81,7 @@
 ----------------------------------------------------------------------------------------------------------------------
 ### Week-6
 #### Topics :
-		1- 0_1 KnapSack ()
+		1- 0_1 KnapSack [✔]
 		2- KnapSack With Repetitions ()
 		3- KnapSack Without Repetitions ()
 		4-Placing Parenthesses ()	
