@@ -71,6 +71,7 @@ This Specialization is unique, because it offers two real-world projects. Advanc
 - ***[Least-Common-Multiple]***
 - ***[Fractional-Knapsack]***
 - ***[_0_1_KnapSack]***
+- ***[Linear Search]***
 
 ----------------------------------------------------------------------------------
 ## 🎉🎈 Certification 
