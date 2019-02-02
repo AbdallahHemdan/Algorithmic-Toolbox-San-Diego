@@ -70,7 +70,7 @@ This Specialization is unique, because it offers two real-world projects. Advanc
 - ***[Greatest-Common-Divisor]***
 - ***[Least-Common-Multiple]***
 - ***[Fractional-Knapsack]***
-- ***[_0_1_KnapSack]***
+- ***[0_1_KnapSack]***
 - ***[Linear Search]***
 
 ----------------------------------------------------------------------------------
