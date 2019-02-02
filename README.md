@@ -17,6 +17,7 @@ This Specialization is unique, because it offers two real-world projects. Advanc
   * [Sum of two Digits](/week1_programming_challenges/1_sum_of_two_digits)
   * [Maximum Pairwise Product](/week1_programming_challenges/2_maximum_pairwise_product)
 
+
 - [Week-2](/week2_programming_challenges)[ (pdf) ](/week2_programming_challenges/week2_programming_challenges.pdf)
   * [Small Fibonacci Number](/week2_programming_challenges/1_fibonacci_number)
   * [The Last Digit of a Large Fibonacci Number](/week2_programming_challenges/2_last_digit_of_fibonacci_number)
@@ -27,6 +28,7 @@ This Specialization is unique, because it offers two real-world projects. Advanc
   * [Last Digit of a Partial Sum of Fibonacci Numbers](/week2_programming_challenges/)
   * [Last Digit of the Sum of Squares of Fibonacci Numbers](/week2_programming_challenges/)
   
+  
 - [Week-3](/week3_programming_challenges)[ (pdf) ](/week2_programming_challenges/week2_programming_challenges.pdf)
   * [Money Change](/week3_programming_challenges/1_money_change)
   * [Maximum Value of the Loot (Fractional Knapsack)](/week3_programming_challenges/2_maximum_value_of_the_loot)
@@ -34,6 +36,7 @@ This Specialization is unique, because it offers two real-world projects. Advanc
   * [Collecting Signatures (Covering Segments by Points)](/week3_programming_challenges/4_collecting_signatures)
   * [Maximum Number of Prizes (Different Summands)](/week3_programming_challenges/5_maximum_number_of_prizes)
   * [Maximum Salary (Largest Number)](/week3_programming_challenges/6_maximum_salary)
+
 
 - [Week-4](/week4_programming_challenges)[ (pdf) ](/week4_programming_challenges/week4_divide_and_conquer.pdf)
   * [binary search](/week4_programming_challenges/1_binary_search)
@@ -43,12 +46,14 @@ This Specialization is unique, because it offers two real-world projects. Advanc
   * [organizing a lottery](/week4_programming_challenges/5_organizing_a_lottery)
   * [closest points](/week4_programming_challenges/6_closest_points)
   
+  
 - [Week-5](/week5_programming_challenges)[ (pdf) ](/week5_programming_challenges/week5_dynamic_programming1.pdf)
   * [money change again](/week4_programming_challenges/1_binary_search)
   * [primitive calculator](/week4_programming_challenges/2_majority_element)
   * [edit distance](/week4_programming_challenges/3_improving_quicksort)
   * [longest common subsequence of two sequences](/week4_programming_challenges/4_number_of_inversions)
   * [longest common subsequence of three sequences](/week4_programming_challenges/5_organizing_a_lottery)
+  
   
 - [Week-6](/week6_programming_challenges)[ (pdf) ](/week6_programming_challenges/week6_dynamic_programming1.pdf)
   * [maximum amount of gold](/week6_programming_challenges/1_maximum_amount_of_gold)
