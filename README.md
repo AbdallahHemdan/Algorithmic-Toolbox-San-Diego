@@ -66,14 +66,15 @@ This Specialization is unique, because it offers two real-world projects. Advanc
  
    I Have Added a New Part **Go in Depth** Which Will Contain The Course Covered Topics But With More Details ,And more Than One Method To Solve Each Problem
 
-- ***[Fibonacci-Numbers]***
-- ***[Greatest-Common-Divisor]***
-- ***[Least-Common-Multiple]***
-- ***[Fractional-Knapsack]***
-- ***[0_1_KnapSack]***
-- ***[Linear Search]***
-- ***[Binary Search]***
-
+- [Big O Notation](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/tree/master/Go%20in%20depth%20with%20each%20topic/Big%20O%20Notation)
+- [Fibonacci-Numbers](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/tree/master/Go%20in%20depth%20with%20each%20topic/Fibonacci%20Numbers)
+- [Greatest-Common-Divisor](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/tree/master/Go%20in%20depth%20with%20each%20topic/Greatest%20Common%20Divisor)
+- [Least-Common-Multiple](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/tree/master/Go%20in%20depth%20with%20each%20topic/Least%20Common%20Multiple)
+- [Fractional-Knapsack](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/tree/master/Go%20in%20depth%20with%20each%20topic/Fractional%20Knapsack)
+- [0_1_KnapSack](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/tree/master/Go%20in%20depth%20with%20each%20topic/_0_1_KnapSack)
+- [Linear Search](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/tree/master/Go%20in%20depth%20with%20each%20topic/Linear%20Search)
+- [Binary Search](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/tree/master/Go%20in%20depth%20with%20each%20topic/Binary%20Search)
+- [Polynomials Multiplication](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/tree/master/Go%20in%20depth%20with%20each%20topic/Polynomials%20Multiplication)
 ----------------------------------------------------------------------------------
 ## 🎉🎈 Certification 
 
