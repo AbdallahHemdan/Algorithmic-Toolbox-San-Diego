@@ -35,12 +35,12 @@
 		4- 0/1 Knapsack Problem [✔] 
 
 #### Problems:
-			1-money_change ()
-			2-maximum_value_of_the_loot ()
-			3-maximum_advertisement_revenue ()
-			4-collecting_signatures ()
-			5-maximum_number_of_prizes ()
-			6-maximum_salary ()
+			1-money_change [✔] 
+			2-maximum_value_of_the_loot [✔] 
+			3-maximum_advertisement_revenue [✔] 
+			4-collecting_signatures [✔] 
+			5-maximum_number_of_prizes [✔] 
+			6-maximum_salary [✔] 
 ----------------------------------------------------------------------------------------------------------------------
 ###	Week-4
 #### Topics :
@@ -84,8 +84,8 @@
 		1- 0_1 KnapSack ()
 		2- KnapSack With Repetitions ()
 		3- KnapSack Without Repetitions ()
-		4-Placing Parenthesses	
+		4-Placing Parenthesses ()	
 #### Problems:
-			1-maximum_amount_of_gold			
-			2-partitioning_souvenirs
-			3-maximum_value_of_an_arithmetic_expression()
+			1-maximum_amount_of_gold ()			
+			2-partitioning_souvenirs ()
+			3-maximum_value_of_an_arithmetic_expression ()
