@@ -1,5 +1,6 @@
 // Linear Search is The Basic Search Algorithm
 // Given an element (X) Find its index
+// O(n)
 
 // Sol: We Just Loop allover the Array and check if 
 // The Current element Equal Our Target
