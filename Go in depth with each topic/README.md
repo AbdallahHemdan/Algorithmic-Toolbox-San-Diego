@@ -49,7 +49,7 @@
 		2- Polynomial Multiplication [✔]
 		3- Master Theorem ()
 		4- Selction Sort [✔]
-		5- Merge Sort ()
+		5- Merge Sort [✔]
 		6- counting Sort ()
 		7- Quick Sort ()
 
