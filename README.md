@@ -75,6 +75,7 @@ This Specialization is unique, because it offers two real-world projects. Advanc
 - [Linear Search](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/tree/master/Go%20in%20depth%20with%20each%20topic/Linear%20Search)
 - [Binary Search](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/tree/master/Go%20in%20depth%20with%20each%20topic/Binary%20Search)
 - [Polynomials Multiplication](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/tree/master/Go%20in%20depth%20with%20each%20topic/Polynomials%20Multiplication)
+- [Selection Sort](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/tree/master/Go%20in%20depth%20with%20each%20topic/Selection%20Sort)
 ----------------------------------------------------------------------------------
 ## 🎉🎈 Certification 
 
