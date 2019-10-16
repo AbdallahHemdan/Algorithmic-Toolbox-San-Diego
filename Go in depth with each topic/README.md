@@ -51,7 +51,7 @@
 		4- Selction Sort [✔]
 		5- Merge Sort [✔]
 		6- counting Sort ()
-		7- Quick Sort ()
+		7- Quick Sort (✔)
 
 #### Problems:
 			1-binary_search ()
@@ -69,7 +69,7 @@
 		2- Largest Common Subsequance ()
 		3- The Alignment Game ()
 		4- Edit Distance()
-		5- Merge Sort ()
+		5- Merge Sort (✔)
 
 #### Problems:
 			1-money_change_again ()
