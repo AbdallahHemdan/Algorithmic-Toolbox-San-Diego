@@ -49,19 +49,23 @@
 #define     pb                     push_back
 #define     endl                     '\n'
 
+using namespace std;
+
 typedef   long long int               ll;
 
 //freopen("input.txt","r",stdin);
 //freopen("output.txt","w",stdout);
-using namespace std;
+
+const int MAXN = 1e5 + 5;
+ll fib[MAXN]; // it is faster - global to save the values not to calculate it again in case of test cases
+
 ll fibCalc(int n)
 {
-	vector<long long> fib(n + 1);
-	fib[0] = 0;
-	fib[1] = 1;
-	for (int i = 2; i <= n; i++)
+	//vector<long long> fib(n + 1);
+	for (int i = 0; i <= n; i++)
 	{
-		fib[i] = fib[i - 1] + fib[i - 2];
+		if (i < 2) fib[i] = i;
+		else fib[i] = fib[i - 1] + fib[i - 2];
 	}
 	return fib[n];
 }
