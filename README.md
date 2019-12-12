@@ -1,3 +1,7 @@
+[![GitHub issues](https://img.shields.io/github/issues/AbdallahHemdan/Algorithmic-Toolbox-San-Diego)](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/issues)
+[![GitHub forks](https://img.shields.io/github/forks/AbdallahHemdan/Algorithmic-Toolbox-San-Diego)](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/network)
+[![GitHub stars](https://img.shields.io/github/stars/AbdallahHemdan/Algorithmic-Toolbox-San-Diego)](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/stargazers)
+[![GitHub license](https://img.shields.io/github/license/AbdallahHemdan/Algorithmic-Toolbox-San-Diego)](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/blob/master/LICENSE)
 # 🌟✔ Algorithmic Toolbox
 
 This repository will contain my work from the [Master Algorithmic Programming Techniques Specialization](https://www.coursera.org/specializations/data-structures-algorithms) that was created by UC San Diego and delivered through Coursera. I will be implementing solutions in C++.
