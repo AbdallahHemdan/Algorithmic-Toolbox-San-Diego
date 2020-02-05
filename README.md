@@ -1,6 +1,6 @@
 <div align="center">
  
-<img width="400px" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/fb/434400d9ac11e5afbfa359f34ae5f0/logo3.png?auto=format%2Ccompress&dpr=1">
+<img width="600px" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/fb/434400d9ac11e5afbfa359f34ae5f0/logo3.png?auto=format%2Ccompress&dpr=1">
 
 </div>
 
