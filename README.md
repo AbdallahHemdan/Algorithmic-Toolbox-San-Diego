@@ -94,6 +94,10 @@ This Specialization is unique, because it offers two real-world projects. Advanc
 - [Polynomials Multiplication](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/tree/master/Go%20in%20depth%20with%20each%20topic/Polynomials%20Multiplication)
 - [Selection Sort](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/tree/master/Go%20in%20depth%20with%20each%20topic/Selection%20Sort)
 - [Merge Sort](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/tree/master/Go%20in%20depth%20with%20each%20topic/Merge%20Sort)
+- [All Sorting Algorithms](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/tree/master/Go%20in%20depth%20with%20each%20topic/All%20sorting%20in%20one%20place)
+- [Binary Search Tree](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/tree/master/Go%20in%20depth%20with%20each%20topic/Binary%20Search%20Tree)
+- [Binary Tree](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/tree/master/Go%20in%20depth%20with%20each%20topic/Binary%20Tree)
+- [Bubble Sort](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/tree/master/Go%20in%20depth%20with%20each%20topic/Bubble%20Sort)
 ----------------------------------------------------------------------------------
 ## 🎉🎈 Certification 
 
