@@ -98,6 +98,10 @@ This Specialization is unique, because it offers two real-world projects. Advanc
 - [Binary Search Tree](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/tree/master/Go%20in%20depth%20with%20each%20topic/Binary%20Search%20Tree)
 - [Binary Tree](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/tree/master/Go%20in%20depth%20with%20each%20topic/Binary%20Tree)
 - [Bubble Sort](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/tree/master/Go%20in%20depth%20with%20each%20topic/Bubble%20Sort)
+- [Heap Sort](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/tree/master/Go%20in%20depth%20with%20each%20topic/Heap%20Sort)
+- [Insertion Sort](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/tree/master/Go%20in%20depth%20with%20each%20topic/Insertion%20Sort)
+- [Minimum Spanning Tree](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/tree/master/Go%20in%20depth%20with%20each%20topic/Minimum%20Spanning%20Tree)
+
 ----------------------------------------------------------------------------------
 ## 🎉🎈 Certification 
 
