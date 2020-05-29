@@ -5,7 +5,7 @@
 
 </div>
 
-<h3 align="center">✔ Algorithmic Toolbox</h3>
+<h3 align="center">Algorithmic Toolbox</h3>
 <div align="center">
 
 [![GitHub issues](https://img.shields.io/github/contributors/AbdallahHemdan/Algorithmic-Toolbox-San-Diego)](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/contributors)
@@ -107,8 +107,12 @@ This Specialization is unique, because it offers two real-world projects. Advanc
 - [Tower of Hanoi](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/tree/master/Go%20in%20depth%20with%20each%20topic/Tower%20of%20Hanoi)
 - [What's the stable sort](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/tree/master/Go%20in%20depth%20with%20each%20topic/What's%20the%20stable%20sort)
 
-----------------------------------------------------------------------------------
+
 ## 🎉🎈 Certification 
 
-
 ![coursera algorithmic toolbox certification-page-001](https://user-images.githubusercontent.com/40190772/52151053-78704500-267a-11e9-8f68-b7ed882afedd.jpg)
+
+## License
+
+> This software is licensed under MIT License, See [License](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/blob/master/LICENSE) for more information ©AbdallahHemdan.
+
