@@ -62,7 +62,7 @@
   * [majority element](/week4_programming_challenges/2_majority_element)
   * [improving quicksort](/week4_programming_challenges/3_improving_quicksort)
   * [number of inversions](/week4_programming_challenges/4_number_of_inversions)
-  * [organizing a lottery](/week4_programming_challenges/5_organizing_a_lottery)
+  * [organizing a lottery](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/blob/master/week4_programming_challenges/5_organizing%20a%20lottery/organizing%20a%20lottery.cpp)
   * [closest points](/week4_programming_challenges/6_closest_points)
   
   
