@@ -67,11 +67,11 @@
   
   
 - [Week-5](/week5_programming_challenges)[ (pdf) ](/week5_programming_challenges/week5_dynamic_programming1.pdf)
-  * [money change again](/week4_programming_challenges/1_binary_search)
+  * [money change again](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/blob/master/week5_programming_challenges/1_money_change_again/change_dp.cpp)
   * [primitive calculator](/week4_programming_challenges/2_majority_element)
-  * [edit distance](/week4_programming_challenges/3_improving_quicksort)
-  * [longest common subsequence of two sequences](/week4_programming_challenges/4_number_of_inversions)
-  * [longest common subsequence of three sequences](/week4_programming_challenges/5_organizing_a_lottery)
+  * [edit distance](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/blob/master/week5_programming_challenges/3_edit_distance/edit_distance.cpp)
+  * [longest common subsequence of two sequences](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/blob/master/week5_programming_challenges/4_longest_common_subsequence_of_two_sequences/lcs2.cpp)
+  * [longest common subsequence of three sequences](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/blob/master/week5_programming_challenges/5_longest_common_subsequence_of_three_sequences/lcs3.cpp)
   
   
 - [Week-6](/week6_programming_challenges)[ (pdf) ](/week6_programming_challenges/week6_dynamic_programming1.pdf)
