@@ -1,6 +1,7 @@
 <div align="center">
  
-<img width="600px" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/fb/434400d9ac11e5afbfa359f34ae5f0/logo3.png?auto=format%2Ccompress&dpr=1">
+![Component 8](https://user-images.githubusercontent.com/40190772/83211365-3a474080-a15d-11ea-8064-3c1c5ce2ed57.png)
+
 
 </div>
 
@@ -15,11 +16,11 @@
 
 </div>
 
-# 🌟✔ Algorithmic Toolbox
+# 🌟 Algorithmic Toolbox
 
 This repository will contain my work from the [Master Algorithmic Programming Techniques Specialization](https://www.coursera.org/specializations/data-structures-algorithms) that was created by UC San Diego and delivered through Coursera. I will be implementing solutions in C++.
 
------------------------------------------------------------------------------------------------------------------------
+----------------
 
 ## About This Specialization
 
