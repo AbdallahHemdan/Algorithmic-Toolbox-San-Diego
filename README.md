@@ -13,6 +13,9 @@
 [![GitHub forks](https://img.shields.io/github/forks/AbdallahHemdan/Algorithmic-Toolbox-San-Diego)](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/network)
 [![GitHub stars](https://img.shields.io/github/stars/AbdallahHemdan/Algorithmic-Toolbox-San-Diego)](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/stargazers)
 [![GitHub license](https://img.shields.io/github/license/AbdallahHemdan/Algorithmic-Toolbox-San-Diego)](https://github.com/AbdallahHemdan/Algorithmic-Toolbox-San-Diego/blob/master/LICENSE)
+<img src="https://img.shields.io/github/watchers/AbdallahHemdan/Algorithmic-Toolbox-San-Diego" />
+<img src="https://img.shields.io/github/languages/top/AbdallahHemdan/Algorithmic-Toolbox-San-Diego"> 
+
 
 </div>
 
